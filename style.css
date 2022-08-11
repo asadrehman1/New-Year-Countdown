@@ -28,3 +28,9 @@
     margin-bottom: 15px;
     font-weight: 600;
 }
+@media (max-width:763px){
+    .row{
+        flex-direction: column;
+        width:50%
+    }
+}
